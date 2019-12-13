@@ -1,0 +1,8 @@
+Platform:      "Linux"
+DatabaseDIR:   "/home/User/BurnLaptop/Database"
+file_pattern:  "csv"
+epoch:         2
+endtime:       12
+
+
+
