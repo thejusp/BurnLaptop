@@ -48,7 +48,7 @@ Nidhi Nagaraju |  Pathmakumar Thejus | Thein Than Tun
 Sathian Pookkuttath | Samarakoon M Bhagya 
 
 
-**&copy; 2019 Singapore University of Technology and Design **
+&copy; 2019 **Singapore University of Technology and Design **
 
 
 
