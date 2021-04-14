@@ -44,7 +44,7 @@ endtime:       12
 ```
 
 ##### Developed by:
-Nidhi Nagaraju |  Pathmakumar Thejus | Thein Than Tun
+Nidhi Nagaraju |  Pathmakumar Thejus | Thein Than Tun |
 Sathian Pookkuttath | Samarakoon M Bhagya 
 
 
